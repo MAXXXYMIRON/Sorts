@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\maxxxymiron\downloads\.пары\саод\практика\sort\sort\main.cpp(82): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\maxxxymiron\downloads\.пары\саод\практика\sort\sort\main.cpp(20): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\maxxxymiron\downloads\.пары\саод\практика\sort\sort\main.cpp(31): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Rand<double>(t [],int)"
+          with
+          [
+              t=double
+          ]
+  sort.vcxproj -> C:\Users\MAXXXYMIRON\Downloads\.ПАРЫ\САОД\ПРАКТИКА\sort\Debug\sort.exe
