@@ -1,9 +1,19 @@
 ﻿  main.cpp
-c:\users\maxxxymiron\downloads\.пары\саод\практика\sort\sort\main.cpp(82): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-c:\users\maxxxymiron\downloads\.пары\саод\практика\sort\sort\main.cpp(20): warning C4018: <: несоответствие типов со знаком и без знака
-  c:\users\maxxxymiron\downloads\.пары\саод\практика\sort\sort\main.cpp(31): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Rand<double>(t [],int)"
+c:\users\maxxxymiron\desktop\.пары\саод\практика\sort\sort\main.cpp(75): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\maxxxymiron\desktop\.пары\саод\практика\sort\sort\main.cpp(93): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\maxxxymiron\desktop\.пары\саод\практика\sort\sort\main.cpp(99): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\maxxxymiron\desktop\.пары\саод\практика\sort\sort\main.cpp(111): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\maxxxymiron\desktop\.пары\саод\практика\sort\sort\main.cpp(117): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\maxxxymiron\desktop\.пары\саод\практика\sort\sort\main.cpp(128): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\maxxxymiron\desktop\.пары\саод\практика\sort\sort\main.cpp(134): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\maxxxymiron\desktop\.пары\саод\практика\sort\sort\main.cpp(145): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\maxxxymiron\desktop\.пары\саод\практика\sort\sort\main.cpp(151): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\maxxxymiron\desktop\.пары\саод\практика\sort\sort\main.cpp(162): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\maxxxymiron\desktop\.пары\саод\практика\sort\sort\main.cpp(168): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\maxxxymiron\desktop\.пары\саод\практика\sort\sort\main.cpp(12): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\maxxxymiron\desktop\.пары\саод\практика\sort\sort\main.cpp(25): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Rand<double>(t [],int)"
           with
           [
               t=double
           ]
-  sort.vcxproj -> C:\Users\MAXXXYMIRON\Downloads\.ПАРЫ\САОД\ПРАКТИКА\sort\Debug\sort.exe
+  sort.vcxproj -> C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\САОД\ПРАКТИКА\sort\Debug\sort.exe

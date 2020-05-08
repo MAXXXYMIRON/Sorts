@@ -1,0 +1,30 @@
+Wait))
+Quick Sort - 10000
+0.005c
+
+
+
+Wait))
+Selection Sotr - 10000
+0.223c
+
+
+
+Wait))
+Bubble Sort - 10000
+1.644c
+
+
+
+Wait))
+Insertion Sort - 10000
+0.102c
+
+
+
+Wait))
+Shell Sort - 10000
+0.192c
+
+
+
